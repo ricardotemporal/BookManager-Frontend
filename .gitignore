@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Flet temp files
+__flet__
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store  # macOS
+Thumbs.db  # Windows
